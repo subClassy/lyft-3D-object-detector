@@ -1,3 +1,4 @@
 *.zip
 **/results/*
 **/.idea/*
+**/3d-object-detection-for-autonomous-vehicles/*
